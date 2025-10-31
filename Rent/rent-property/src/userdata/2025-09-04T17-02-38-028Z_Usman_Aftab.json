@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-09-04T17:02:38.030Z",
+  "booking": {
+    "checkIn": {
+      "date": "2025-09-05",
+      "time": "8:45 PM"
+    },
+    "checkOut": {
+      "date": "2025-09-05",
+      "time": "10:15 PM"
+    },
+    "guests": 1,
+    "name": "Usman Aftab",
+    "mobile": "+447721056092"
+  }
+}

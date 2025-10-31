@@ -361,10 +361,10 @@ function BookingWidget() {
 function HeroSlider() {
   const [currentSlide, setCurrentSlide] = useState(0)
   const slides = [
-    { image: '/img1.jpeg', alt: 'Islamabad' },
-    { image: '/img2.jpeg', alt: 'Islamabad' },
-    { image: '/img3.jpeg', alt: 'Islamabad' },
-    { image: '/img4.jpeg', alt: 'Islamabad' },
+    { image: '/img15.jpeg', alt: 'Islamabad' },
+    { image: '/img16.jpeg', alt: 'Islamabad' },
+    { image: '/img17.jpeg', alt: 'Islamabad' },
+    { image: '/img18.jpeg', alt: 'Islamabad' },
   ]
 
   useEffect(() => {

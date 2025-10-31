@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://rentsinn.com
+
+# Sitemaps
+Sitemap: https://rentsinn.com/sitemap.xml

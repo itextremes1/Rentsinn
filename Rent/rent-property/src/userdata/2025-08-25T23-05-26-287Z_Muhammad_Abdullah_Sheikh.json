@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-08-25T23:05:26.288Z",
+  "booking": {
+    "checkIn": {
+      "date": "2025-08-26",
+      "time": "4:30 AM"
+    },
+    "checkOut": {
+      "date": "2025-09-27",
+      "time": "4:30 AM"
+    },
+    "guests": 1,
+    "name": "Muhammad Abdullah Sheikh",
+    "mobile": "+923358032373"
+  }
+}

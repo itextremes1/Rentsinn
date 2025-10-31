@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-09-02T19:46:37.950Z",
+  "booking": {
+    "checkIn": {
+      "date": "2025-09-03",
+      "time": "1:00 AM"
+    },
+    "checkOut": {
+      "date": "2025-09-04",
+      "time": "1:00 AM"
+    },
+    "guests": 2,
+    "name": "Muhammad bilal",
+    "mobile": "+923230791944"
+  }
+}

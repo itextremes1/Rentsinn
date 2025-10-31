@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-08-25T13:31:35.970Z",
+  "booking": {
+    "checkIn": {
+      "date": "2025-08-26",
+      "time": "5:45 PM"
+    },
+    "checkOut": {
+      "date": "2025-08-27",
+      "time": "6:15 PM"
+    },
+    "guests": 2,
+    "name": "Wah health and Cair",
+    "mobile": "+923033304987"
+  }
+}
